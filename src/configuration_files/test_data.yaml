@@ -1,0 +1,4 @@
+APP:
+  ENVIRONMENT: STAGING
+  REGISTER_URL: https://staging.propertyguru.vn/sellernet/trang-dang-ky/
+  # yaml can accept comment which is very useful, especially when deploy on pipeline

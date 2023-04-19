@@ -1,0 +1,6 @@
+{
+  "APP": {
+    "ENVIRONMENT": "STAGING",
+    "REGISTER_URL": "https://staging.propertyguru.vn/sellernet/trang-dang-ky/"
+  }
+}
